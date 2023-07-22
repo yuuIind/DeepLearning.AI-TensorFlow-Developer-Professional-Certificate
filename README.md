@@ -2,4 +2,4 @@
 
 DeepLearning.AI TensorFlow Developer Professional Certificate
 
-Notebooks include my answers.
+Optional labs and Graded Assignments
